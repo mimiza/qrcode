@@ -1,0 +1,27 @@
+{
+    "name": "qrcode",
+    "type": "module",
+    "version": "1.0.0",
+    "description": "Bulk QR code generator in NodeJS",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "format": "npx prettier --write ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mimiza/qrcode.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mimiza/qrcode/issues"
+    },
+    "homepage": "https://github.com/mimiza/qrcode#readme",
+    "dependencies": {
+        "qrcode": "^1.5.0"
+    },
+    "devDependencies": {
+        "prettier": "^2.7.1"
+    }
+}
