@@ -2,6 +2,13 @@
 
 Bulk QR code generator in NodeJS
 
+Terminal variables:
+
+-   -d: Data file.
+-   -u: URL.
+-   -n: Number of codes to be generated.
+-   -o: Options: type, margin, width
+
 Example:
 
 ```
